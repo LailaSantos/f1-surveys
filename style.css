@@ -1,0 +1,209 @@
+body {
+  background-color: #ececed;
+}
+
+.menu {
+  display: flex;
+}
+.conteudo {
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: auto;
+  height: auto;
+  text-align: center;
+  border-radius: 5px;
+}
+.link-f1 {
+  display: flex;
+}
+.capa {
+  margin: 5px;
+  width: 430px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.layout-capa {
+  display: flex;
+  margin-top: 15px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.lista {
+  display: flex;
+}
+
+p {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.container-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-team {
+  width: auto;
+  height: 110px;
+  border-radius: 30px;
+}
+
+.logo-pilot {
+  width: auto;
+  height: 100px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  border-radius: 5px;
+  box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+  padding: 30px;
+  margin: 20px;
+  width: 400px;
+  transition: all 0.3s ease-out;
+  background-color: white;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+.card p {
+  color: #a3a5ae;
+  font-size: 16px;
+}
+
+.image {
+  float: right;
+  max-width: 64px;
+  max-height: 64px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.card h2 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.flags img {
+  width: auto;
+  height: 50px;
+}
+
+.flagsTwo img {
+  width: auto;
+  height: 50px;
+}
+
+.container-geral {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+span {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container-lista {
+  display: flex;
+  align-items: center;
+}
+
+.team-link {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-left: 3px;
+  background-color: #cecece;
+  text-decoration: none;
+  border: none;
+  border-radius: 20px;
+}
+
+.team-link-alfa:hover {
+  color: white;
+  background-color: #b3404a;
+}
+
+.team-link-aston:hover {
+  color: white;
+  background-color: #006560;
+}
+
+.team-link-alpine:hover {
+  color: white;
+  background-color: #b45282;
+}
+
+.team-link-haas:hover {
+  color: white;
+  background-color: #c5152d;
+}
+
+.team-link-mclaren:hover {
+  color: white;
+  background-color: #e47202;
+}
+.team-link-mercedes:hover {
+  color: white;
+  background-color: #03968e;
+}
+.team-link-redbull:hover {
+  color: white;
+  background-color: #1f273b;
+}
+.team-link-alpha:hover {
+  color: white;
+  background-color: #0b2842;
+}
+.team-link-ferrari:hover {
+  color: white;
+  background-color: #d42f33;
+}
+.team-link-williams:hover {
+  color: white;
+  background-color: #01afd9;
+}
+
+.team-link-f1:hover {
+  color: black;
+  background-color: rgb(182, 137, 233);
+}
+
+.info {
+  text-align: center;
+}
