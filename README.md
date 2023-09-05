@@ -9,10 +9,11 @@ Este projeto foi desenvolvido para estudos, com o objetivo de aprofundar o conhe
 - CSS
 - Javascript
 
-### Link do Netlifly 
+### Link do Netlifly ✨
 
+ - https://f1-surveys.netlify.app/
 
-
+##### Obs: Fazer ajustes na renderização e na responsividade. 
 
 
 ####  Feito com :purple_heart:  by - Laila Roberta :v:.
