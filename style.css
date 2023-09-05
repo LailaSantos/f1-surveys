@@ -1,0 +1,42 @@
+body {
+  background-color: #ececed;
+}
+
+.menu {
+  display: flex;
+}
+.conteudo {
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: auto;
+  height: 430px;
+}
+
+.capa {
+  margin-top: 5px;
+  width: 600px;
+  height: 400px;
+}
+
+.layout-capa{
+ display: flex;
+ justify-content: space-evenly;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.lista {
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: cursive;
+}
