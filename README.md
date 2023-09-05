@@ -9,7 +9,7 @@ Este projeto foi desenvolvido para estudos, com o objetivo de aprofundar o conhe
 - CSS
 - Javascript
 
-### Aqui tem o link do Netlifly 
+### Link do Netlifly 
 
 
 
