@@ -24,11 +24,6 @@ body {
   border-radius: 10px;
 }
 
-.layout-capa {
-  display: flex;
-  margin-top: 15px;
-}
-
 .logo {
   width: 150px;
   height: 150px;
