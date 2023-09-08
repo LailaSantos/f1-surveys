@@ -11,7 +11,8 @@ Este projeto foi desenvolvido para estudos, com o objetivo de aprofundar o conhe
 
 ### Link do Netlifly ✨
 
- - https://f1-surveys.netlify.app/ (Clique com o botão direito (ou Ctrl/Cmd + Clique) no link para abrir em uma nova aba.)
+ - https://f1-surveys.netlify.app/
+ - Clique com o botão direito no link para abrir em uma nova aba.
 
 ##### Obs: Fazer ajustes na renderização e na responsividade. 
 
